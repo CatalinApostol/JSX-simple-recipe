@@ -1,0 +1,20 @@
+.container {
+  width: 100hw;
+  display: grid;
+  justify-content: center;
+}
+
+.item {
+  width: 750px;
+}
+
+ol {
+    padding: 0;
+}
+h1{
+  text-align: center;
+}
+div{
+  display:flex;
+  justify-content: center;
+}
